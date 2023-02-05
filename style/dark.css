@@ -1,0 +1,24 @@
+.clock {
+	background: #222225;
+
+}
+
+.clock__circle {
+	background: #3a3a3a;
+}
+
+.clock__circle--small {
+	background: #232323;
+}
+
+.clock__second {
+	border-top: 2px solid #ff97b3;
+}
+
+.clock__hour {
+	border-top: 10px solid #404040;
+}
+
+.clock__minute {
+	border-top: 10px solid #4e4e4e;
+}
